@@ -14,4 +14,6 @@ public interface IShape {
 
     public boolean isSimilar();
 
+    public double getArea();
+
 }
